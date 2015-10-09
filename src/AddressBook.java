@@ -1,6 +1,7 @@
 import java.util.Iterator;
 
 /**
+ * @author Miguel Rivera
 */
 public interface AddressBook {
 
